@@ -57,7 +57,7 @@ class _NavBarState extends State<NavBar> {
           items: const [
             BottomNavigationBarItem(icon: Icon(Iconsax.note), label: 'Dogs'),
             BottomNavigationBarItem(
-                icon: Icon(Icons.calculate), label: 'Convert'),
+                icon: Icon(Icons.calculate), label: 'Upgrade'),
             BottomNavigationBarItem(
                 icon: Icon(Icons.notes_rounded), label: 'Review'),
             BottomNavigationBarItem(

@@ -47,6 +47,9 @@ dependencies:
   flutter_map: ^8.1.1 # opsi untuk peta OpenStreetMap
   latlong2: ^0.9.1
   location: ^8.0.0
+  image_picker: ^1.1.2
+  permission_handler: ^11.0.1  # For handling permissions
+  path_provider: ^2.1.1        # For file storage paths
 
 dev_dependencies:
   flutter_test:
